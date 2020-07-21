@@ -6,9 +6,9 @@ Talking about my favourite programming language, Java is always the one!!💖
 ## Hello World!
 <div align="center">
   <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
-</div>
 
-<div align="center">
+
+
 <a href="https://twitter.com/ananyaarsingh">
   <img align="left" alt="Ananya's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
