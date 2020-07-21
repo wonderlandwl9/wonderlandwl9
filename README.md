@@ -1,6 +1,6 @@
 ### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px">
-<em>I am a 4th Year undergraduate student from <a href="https://jaipur.manipal.edu/"><b>Manipal University Jaipur</b></a>. I started with my programming journey at an early age which helped me to gain curosity about technical things! <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/PC.gif" height="20px"/>
-Talking about my favourte programming language, Java is always the one!! 💖
+<em>I am a 4th Year undergraduate student from <a href="https://jaipur.manipal.edu/"><b>Manipal University Jaipur</b></a>. I started with my programming journey at an early age which helped me to gain curiosity about technical things!<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/PC.gif" height="20px"/>
+Talking about my favourite programming language, Java is always the one!!💖
  <br/>
 
 ## Hello World!
