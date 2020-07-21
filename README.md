@@ -122,7 +122,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 <a href="https://www.hackerrank.com/ananyarsingh/">
   <img align="left" alt="Pavan's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
-<a href="https://twitter.com/vaporjawn">
+<a href="https://auth.geeksforgeeks.org/user/ananyarsingh/profile">
   <img align="left" alt="Victor Williams | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/geeksforgeeks.svg" />
 </a>
 
