@@ -107,60 +107,24 @@ Visit my profile and give a ⭐️ if you like it</p>
 
 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-<a href="https://twitter.com/iampavangandhi">
-  <img align="left" alt="Pavan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://twitter.com/ananyaarsingh">
+  <img align="left" alt="Ananya's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://linkedin.com/in/iampavangandhi">
-  <img align="left" alt="Pavan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://linkedin.com/in/ananyarsingh">
+  <img align="left" alt="Ananya's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/iampavangandhi">
-  <img align="left" alt="Pavan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="ananyasingh0419@gmail.com">
+  <img align="left" alt="'Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
 </a>
-<a href="https://t.me/iampavangandhi">
-  <img align="left" alt="Pavan's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+<a href="https://t.me/ananyarsingh">
+  <img align="left" alt="Ananya's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://instagram.com/iampavangandhi/">
-  <img align="left" alt="Pavan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/iampavangandhi/">
-  <img align="left" alt="Pavan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://www.hackerrank.com/iampavangandhi/">
+<a href="https://www.hackerrank.com/ananyarsingh/">
   <img align="left" alt="Pavan's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
-
-<br />
-
 <a href="https://twitter.com/vaporjawn">
-  <img align="left" alt="Victor Williams | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/victorwilliams719/">
-  <img align="left" alt="Victor's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://t.me/todoslosdias">
-  <img align="left" alt="Victor's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.reddit.com/user/todoslosdays/">
-  <img align="left" alt="Victor's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
-</a>
-<a href="https://leetcode.com/vaporjawn/">
-  <img align="left" alt="Vcitor's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
-<a href="https://www.instagram.com/vaporjawn">
-  <img align="left" alt="Victor's instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Victor Williams | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/geeksforgeeks.svg" />
 </a>
 
 <br />
-<br />
-# 1
-**Talking about Personal Stuffs:**
-
-- 👨🏽‍💻 I’m currently an Artificial Intelligence intern with [Vneuron](https://www.vneuron.com/) working on NLP/NLU projects;
-- 🌱 I’m currently learning Deep Reinforcement Learning; 
-- 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, etc..;
-- 💼 I’m pursuing a Bachelor's degree in Software Engineering;
-- 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via mabrouki.mehdi25@gmail.com to reach me.
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1q_ATZsO9c488VUxj1JuU--ZYe9IEqp4-/view?usp=sharing) to get more info.
-
 
