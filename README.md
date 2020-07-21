@@ -78,9 +78,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 
 <br>
 
-<p align="center">
-  Made with :blue_heart: &nbsp;using GitHub Markdown &nbsp;:arrow_down:
-</p>
+
 ### Welcome to LøvelyBuggies's Hut 👋
 
 <a href="https://tva1.sinaimg.cn/large/007S8ZIlgy1ggrqy7om28j30j80omjtq.jpg">
@@ -102,7 +100,12 @@ Visit my profile and give a ⭐️ if you like it</p>
 <br />
 <br />
 
-## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Hello World!
+<div align="center">
+  <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
+</div>
+
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 <a href="https://twitter.com/iampavangandhi">
   <img align="left" alt="Pavan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -161,47 +164,3 @@ Visit my profile and give a ⭐️ if you like it</p>
 - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1q_ATZsO9c488VUxj1JuU--ZYe9IEqp4-/view?usp=sharing) to get more info.
 
 
-**Languages and Tools:**  
-
-<code><img height="20" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-![Mehdi's github stats](https://github-readme-stats.vercel.app/api?username=callmemehdi&show_icons=true&hide_border=true)
-
-⭐️ From [CallmeMehdi](https://github.com/CallmeMehdi)
-
-# 2
-<div align="center">
-
-  ### Hi there, welcome to my Github! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
-  ![github stats](https://github-readme-stats.vercel.app/api?username=opxop&show_icons=true)
-  
-</div>  
-
-<div align="center">
-  
-  **📫 Reach me at:**<br>
-
-  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/opakholis)](https://twitter.com/opakholis)
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/opakholis/)](https://www.linkedin.com/in/opakholis)
-  [![Facebook  Badge](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/opakholis)
-  [![Spotify Badge](https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/xil3nxol9wadm6lgyw5qv1l2h?si=QDNUS80iR4C97B-tQVLJDw)
-
-</div>
-
-⭐️ From [opxop](https://github.com/opxop)
-
-
-<p align="center">
-<img src ="https://media.giphy.com/media/LmN2chQQyRB4PgCf8U/giphy.gif" >
-</p>
