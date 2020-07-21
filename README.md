@@ -113,7 +113,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 <a href="https://linkedin.com/in/ananyarsingh">
   <img align="left" alt="Ananya's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="ananyasingh0419@gmail.com">
+<a href = "mailto:ananyasingh0419@gmail.com?subject = Feedback&body = Message">
   <img align="left" alt="'Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
 </a>
 <a href="https://t.me/ananyarsingh">
