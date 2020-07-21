@@ -2,8 +2,9 @@
 <em>I am a 4th Year undergraduate student from <a href="https://jaipur.manipal.edu/"><b>Manipal University Jaipur</b></a>. I started with my programming journey at an early age which helped me to gain curiosity about technical things!<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/PC.gif" height="20px"/>
 Talking about my favourite programming language, Java is always the one!!💖
  <br/>
+ 
+ Happy Coding! 😊
 
-## Hello World!
 <div align="center">
   <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
 
